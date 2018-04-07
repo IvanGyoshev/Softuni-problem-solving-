@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Donate", "ConsoleApp1\01.Donate.csproj", "{F08EAFB8-6BB2-4B15-A77E-8DAA854CDB5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Fruit coktails", "03.Fruit coktails\03.Fruit coktails.csproj", "{0183DB06-395D-433F-B995-9E0AA7CAA299}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F08EAFB8-6BB2-4B15-A77E-8DAA854CDB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F08EAFB8-6BB2-4B15-A77E-8DAA854CDB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F08EAFB8-6BB2-4B15-A77E-8DAA854CDB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0183DB06-395D-433F-B995-9E0AA7CAA299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0183DB06-395D-433F-B995-9E0AA7CAA299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0183DB06-395D-433F-B995-9E0AA7CAA299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0183DB06-395D-433F-B995-9E0AA7CAA299}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
