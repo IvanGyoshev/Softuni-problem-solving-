@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Fruit coktails", "03.Fru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.WordSwimRecord", "02.WordSwimRecord\02.WordSwimRecord.csproj", "{22369026-6D0F-48D6-9275-E9D1DC313435}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MoneyPrise", "04.MoneyPrise\04.MoneyPrise.csproj", "{6713EDDA-B0E5-4C9C-BA9A-053415733B49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{22369026-6D0F-48D6-9275-E9D1DC313435}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22369026-6D0F-48D6-9275-E9D1DC313435}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22369026-6D0F-48D6-9275-E9D1DC313435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6713EDDA-B0E5-4C9C-BA9A-053415733B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6713EDDA-B0E5-4C9C-BA9A-053415733B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6713EDDA-B0E5-4C9C-BA9A-053415733B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6713EDDA-B0E5-4C9C-BA9A-053415733B49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
