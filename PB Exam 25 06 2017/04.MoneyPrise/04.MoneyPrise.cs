@@ -12,7 +12,7 @@ namespace _04.MoneyPrise
         {
             uint parts = uint.Parse(Console.ReadLine());
             double moneyOfEveryPart = double.Parse(Console.ReadLine());
-            uint totalParts = 0u;
+            uint totalParts = 0u; 
             for (int i=1; i<=parts; i++)
             {
                 uint input = uint.Parse(Console.ReadLine());
