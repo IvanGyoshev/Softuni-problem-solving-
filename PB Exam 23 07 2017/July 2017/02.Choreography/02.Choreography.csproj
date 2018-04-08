@@ -7,7 +7,7 @@
     <ProjectGuid>{2DF96B92-E0D3-4136-8222-F5F3226A92C6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_02.Choreography</RootNamespace>
-    <AssemblyName>_02.Choreography</AssemblyName>
+    <AssemblyName>02.Choreography</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="02.Choreography.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
