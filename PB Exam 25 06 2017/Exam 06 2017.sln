@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MoneyPrise", "04.MoneyPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Triangle", "05.Triangle\05.Triangle.csproj", "{C1510061-9060-4791-81E4-A9B145E5BA7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Maths", "06.Maths\06.Maths.csproj", "{2A26E76A-92F3-4E2D-92B0-A0BF0F5F6898}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C1510061-9060-4791-81E4-A9B145E5BA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1510061-9060-4791-81E4-A9B145E5BA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1510061-9060-4791-81E4-A9B145E5BA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A26E76A-92F3-4E2D-92B0-A0BF0F5F6898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A26E76A-92F3-4E2D-92B0-A0BF0F5F6898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A26E76A-92F3-4E2D-92B0-A0BF0F5F6898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A26E76A-92F3-4E2D-92B0-A0BF0F5F6898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
