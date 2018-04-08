@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.WordSwimRecord", "02.Wor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MoneyPrise", "04.MoneyPrise\04.MoneyPrise.csproj", "{6713EDDA-B0E5-4C9C-BA9A-053415733B49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Triangle", "05.Triangle\05.Triangle.csproj", "{C1510061-9060-4791-81E4-A9B145E5BA7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6713EDDA-B0E5-4C9C-BA9A-053415733B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6713EDDA-B0E5-4C9C-BA9A-053415733B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6713EDDA-B0E5-4C9C-BA9A-053415733B49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1510061-9060-4791-81E4-A9B145E5BA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1510061-9060-4791-81E4-A9B145E5BA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1510061-9060-4791-81E4-A9B145E5BA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1510061-9060-4791-81E4-A9B145E5BA7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
