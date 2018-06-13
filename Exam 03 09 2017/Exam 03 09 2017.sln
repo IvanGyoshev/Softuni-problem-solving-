@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Photo Pictures", "03. P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Cake", "04. Cake\04. Cake.csproj", "{27D1C0E3-FD17-45D7-89BF-BA5C1E9686BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Snowflake", "05. Snowflake\05. Snowflake.csproj", "{8697FC72-7285-4546-AAEC-855EACA07A9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{27D1C0E3-FD17-45D7-89BF-BA5C1E9686BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27D1C0E3-FD17-45D7-89BF-BA5C1E9686BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27D1C0E3-FD17-45D7-89BF-BA5C1E9686BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8697FC72-7285-4546-AAEC-855EACA07A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8697FC72-7285-4546-AAEC-855EACA07A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8697FC72-7285-4546-AAEC-855EACA07A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8697FC72-7285-4546-AAEC-855EACA07A9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
