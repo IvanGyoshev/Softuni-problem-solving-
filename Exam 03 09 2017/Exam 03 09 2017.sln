@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Tailoring Workshop", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Scholarship", "02. Scholarship\02. Scholarship.csproj", "{B8E8578F-AF2C-413B-9F17-E02CC9603FD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Photo Pictures", "03. Photo Pictures\03. Photo Pictures.csproj", "{E6CB128A-00EB-43F6-8DA4-CCFC09BCE228}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B8E8578F-AF2C-413B-9F17-E02CC9603FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8E8578F-AF2C-413B-9F17-E02CC9603FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8E8578F-AF2C-413B-9F17-E02CC9603FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6CB128A-00EB-43F6-8DA4-CCFC09BCE228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CB128A-00EB-43F6-8DA4-CCFC09BCE228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CB128A-00EB-43F6-8DA4-CCFC09BCE228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CB128A-00EB-43F6-8DA4-CCFC09BCE228}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
