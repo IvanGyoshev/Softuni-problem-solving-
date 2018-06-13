@@ -26,12 +26,12 @@ namespace _03.Photo_Pictures
                     break;
                 case "13X18":
                     bill = picturesCount * 0.38d;
-                    if (picturesCount > 50 && picturesCount<=100) bill *= 0.97d;
+                    if (picturesCount >= 50 && picturesCount<=100) bill *= 0.97d;
                     else if (picturesCount > 100) bill *= 0.95d;
                     break;
                 case "20X30":
                     bill = picturesCount * 2.90d;
-                    if (picturesCount > 10 && picturesCount <= 50) bill *= 0.93d;
+                    if (picturesCount >= 10 && picturesCount <= 50) bill *= 0.93d;
                     else if (picturesCount > 50) bill *= 0.91d;
                     break;
             }

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Scholarship", "02. Scho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Photo Pictures", "03. Photo Pictures\03. Photo Pictures.csproj", "{E6CB128A-00EB-43F6-8DA4-CCFC09BCE228}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Cake", "04. Cake\04. Cake.csproj", "{27D1C0E3-FD17-45D7-89BF-BA5C1E9686BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E6CB128A-00EB-43F6-8DA4-CCFC09BCE228}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6CB128A-00EB-43F6-8DA4-CCFC09BCE228}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6CB128A-00EB-43F6-8DA4-CCFC09BCE228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D1C0E3-FD17-45D7-89BF-BA5C1E9686BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D1C0E3-FD17-45D7-89BF-BA5C1E9686BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D1C0E3-FD17-45D7-89BF-BA5C1E9686BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D1C0E3-FD17-45D7-89BF-BA5C1E9686BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
