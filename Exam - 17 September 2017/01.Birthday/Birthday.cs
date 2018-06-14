@@ -16,7 +16,6 @@ namespace _01.Birthday
             double percent = double.Parse(Console.ReadLine());
             double volume = (1-percent/100.00d)*length*width*height/1000.0d;
             Console.WriteLine("{0:f3}", volume);
-
         }
     }
 }
