@@ -20,7 +20,7 @@ namespace _02.Three_brothers
             if (uncleBob > brothers)
                 Console.WriteLine("Yes, there is a surprise - time left -> {0} hours.",
                     Math.Floor(uncleBob - brothers));
-            else Console.WriteLine("No, there isn’t a surprise - shortage of time -> {0} hours.",
+            else Console.WriteLine("No, there isn't a surprise - shortage of time -> {0} hours.",
                 Math.Ceiling(brothers-uncleBob));
         }
     }
