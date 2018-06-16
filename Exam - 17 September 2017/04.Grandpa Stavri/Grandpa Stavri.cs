@@ -22,8 +22,8 @@ namespace _04.Grandpa_Stavri
                 volume += yeniRaki;
                 sumGrades += yeniRaki * grades;
             }
-            Console.WriteLine("Litter:{0:f2}", volume);
-            Console.WriteLine("Degrees:{0:f2}", sumGrades/volume);
+            Console.WriteLine("Liter: {0:f2}", volume);
+            Console.WriteLine("Degrees: {0:f2}", sumGrades/volume);
             if (sumGrades/volume<38)
             Console.WriteLine("Not good, you should baking!");
             else if (sumGrades / volume >= 38 && sumGrades / volume <42)
