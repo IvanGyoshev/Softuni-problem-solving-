@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Grandpa Stavri", "04.Gra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Sheriff", "05.Sheriff\05.Sheriff.csproj", "{33D7EF0A-7A82-4248-94C1-0C733163B153}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.The song of the wheels", "06.The song of the wheels\06.The song of the wheels.csproj", "{133CCFBF-49B3-495F-8B54-CFFBCF22E539}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{33D7EF0A-7A82-4248-94C1-0C733163B153}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33D7EF0A-7A82-4248-94C1-0C733163B153}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33D7EF0A-7A82-4248-94C1-0C733163B153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{133CCFBF-49B3-495F-8B54-CFFBCF22E539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133CCFBF-49B3-495F-8B54-CFFBCF22E539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133CCFBF-49B3-495F-8B54-CFFBCF22E539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133CCFBF-49B3-495F-8B54-CFFBCF22E539}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
