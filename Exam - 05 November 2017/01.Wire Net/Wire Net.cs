@@ -15,12 +15,9 @@ namespace _01.Wire_Net
             double heightOfNet = double.Parse(Console.ReadLine());
             double priceOfNetPerMeter = double.Parse(Console.ReadLine());
             double weightOfNetPerMeter = double.Parse(Console.ReadLine());
-
             Console.WriteLine("{0}\n{1:f2}\n{2:f3}", 2 * (lengthOfPlace + widthOfPlace),
                 2 * (lengthOfPlace + widthOfPlace)*priceOfNetPerMeter,
-               2 * (lengthOfPlace + widthOfPlace) * heightOfNet * weightOfNetPerMeter );
-            
-            
+               2 * (lengthOfPlace + widthOfPlace) * heightOfNet * weightOfNetPerMeter );                       
         }
     }
 }
