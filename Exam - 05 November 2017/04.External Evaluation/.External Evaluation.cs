@@ -27,11 +27,11 @@ namespace _04.External_Evaluation
                 if (grade >= 58.5 && grade < 76.5) veryGood += 1;
                 if (grade >= 76.5 && grade <= 100) excellent += 1;
             }
-            Console.WriteLine("{0:f2}% poor marks", poor * 100 / n);
-            Console.WriteLine("{0:f2}% satisfactory marks", satisfy * 100 / n);
-            Console.WriteLine("{0:f2}% good marks", good * 100 / n);
-            Console.WriteLine("{0:f2}% very good marks", veryGood * 100 / n);
-            Console.WriteLine("{0:f2}% excellent marks", excellent * 100 / n);
+            Console.WriteLine("{0:f2}% poor marks", poor * 100.00d / n);
+            Console.WriteLine("{0:f2}% satisfactory marks", satisfy * 100.00d / n);
+            Console.WriteLine("{0:f2}% good marks", good * 100.00d / n);
+            Console.WriteLine("{0:f2}% very good marks", veryGood * 100.00d / n);
+            Console.WriteLine("{0:f2}% excellent marks", excellent * 100.00d / n);
         }
     }
 }
