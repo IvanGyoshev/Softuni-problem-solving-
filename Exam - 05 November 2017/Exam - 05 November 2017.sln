@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Lutenitsa", "02.Lutenits
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Courier Express", "03.Courier Express\03.Courier Express.csproj", "{0D2C8B3F-B6B0-43F3-96B0-47FD3E986E75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.External Evaluation", "04.External Evaluation\04.External Evaluation.csproj", "{4F15F65D-B268-442A-AD4C-6F403BF4812F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0D2C8B3F-B6B0-43F3-96B0-47FD3E986E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D2C8B3F-B6B0-43F3-96B0-47FD3E986E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D2C8B3F-B6B0-43F3-96B0-47FD3E986E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F15F65D-B268-442A-AD4C-6F403BF4812F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F15F65D-B268-442A-AD4C-6F403BF4812F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F15F65D-B268-442A-AD4C-6F403BF4812F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F15F65D-B268-442A-AD4C-6F403BF4812F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
