@@ -18,14 +18,14 @@ namespace _04.External_Evaluation
             int veryGood = 0;
             int excellent = 0;
             double result = 0.00d;
-            for (int i=1; i<=n;i++)
+            for (int i=1; i<n+1;i++)
             {
                 grade = double.Parse(Console.ReadLine());
                 if (grade >= 0 && grade < 22.5) poor +=1;
                 if (grade >= 22.5 && grade < 40.5) satisfy +=1;
                 if (grade >= 40.5 && grade < 58.5) good +=1;
                 if (grade >= 58.5 && grade < 76.5) veryGood += 1;
-                if (grade >= 75.5 && grade < 100) excellent += 1;
+                if (grade >= 76.5 && grade <= 100) excellent += 1;
             }
             Console.WriteLine("{0:f2}% poor marks", poor * 100 / n);
             Console.WriteLine("{0:f2}% satisfactory marks", satisfy * 100 / n);
