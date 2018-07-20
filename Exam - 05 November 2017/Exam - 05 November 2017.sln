@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Courier Express", "03.Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.External Evaluation", "04.External Evaluation\04.External Evaluation.csproj", "{4F15F65D-B268-442A-AD4C-6F403BF4812F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lucky Numbers", "6.happy figures\Lucky Numbers.csproj", "{61A54F5D-2317-4435-AAC0-0D90B68ABF02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4F15F65D-B268-442A-AD4C-6F403BF4812F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F15F65D-B268-442A-AD4C-6F403BF4812F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F15F65D-B268-442A-AD4C-6F403BF4812F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A54F5D-2317-4435-AAC0-0D90B68ABF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A54F5D-2317-4435-AAC0-0D90B68ABF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A54F5D-2317-4435-AAC0-0D90B68ABF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A54F5D-2317-4435-AAC0-0D90B68ABF02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
